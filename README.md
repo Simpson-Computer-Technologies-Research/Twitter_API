@@ -1,4 +1,4 @@
-# Twitter Tweeter ![Stars](https://img.shields.io/github/stars/realTristan/TwitterTweeter?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/realTristan/TwitterTweeter?label=Watchers)
+# Twitter Tweeter ![Stars](https://img.shields.io/github/stars/Simpson-Computer-Technologies-Research/Twitter_API?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/Simpson-Computer-Technologies-Research/Twitter_API?label=Watchers)
 ![jydesign-social-media-header-sizes-1080x630](https://user-images.githubusercontent.com/75189508/186441393-fe2e7605-bb03-4b7f-b3c2-139cc54ee26d.png)
 
 # About
